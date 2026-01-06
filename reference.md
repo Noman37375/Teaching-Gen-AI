@@ -10,6 +10,10 @@ This file serves as a central hub for external tools, documentation, and noteboo
 ## 📓 Local Notebooks
 * **[tokenization.ipynb](./tokenization.ipynb):** Initial deep dive into the mechanics of tokenization, including BPE (Byte Pair Encoding) and vocabulary mapping.
 
+## 📝 Class Notes
+* **[notes/](./notes/):** This folder contains detailed notes for each session.
+* **[class1.md](./notes/class1.md):** Project Setup and API Configuration.
+  
 ## 📚 Official Documentation
 * *Pending: Add links to LangChain, OpenAI, or Google AI documentation here.*
 
